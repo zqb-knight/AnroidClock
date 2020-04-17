@@ -29,8 +29,8 @@ drawPointer(canvas,1,nowMinutes);
 
 ```java
 degree = value * UNIT_DEGREE;
-                mNeedlePaint.setColor(Color.BLUE);
-                pointerHeadXY = getPointerHeadXY(MINUTE_POINTER_LENGTH, degree);
+mNeedlePaint.setColor(Color.BLUE);
+pointerHeadXY = getPointerHeadXY(MINUTE_POINTER_LENGTH, degree);
 ```
 
 
